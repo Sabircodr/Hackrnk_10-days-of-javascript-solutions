@@ -13,64 +13,64 @@ The repository is organized into directories for each day of the challenge. Each
 <details>
   <summary>Click to expand</summary>
   <pre>
-10-Days-of-JavaScript/  
-├── Day-0/  
-│   ├── Hello-World/  
-│   │   └── helloWorld.js  
-│   ├── Data-Types/  
-│       └── dataTypes.js  
-├── Day-1/  
-│   ├── Arithmetic-Operators/  
-│   │   └── arithmeticOperators.js  
-│   ├── Functions/  
-│   │   └── functions.js  
-│   └── Let-and-Const/  
-│       └── letAndConst.js  
-├── Day-2/  
-│   ├── Conditional-Statements-If-Else/  
-│   │   └── ifElse.js  
-│   ├── Conditional-Statements-Switch/  
-│   │   └── switch.js  
-│   └── Loops/  
-│       └── loops.js  
-├── Day-3/  
-│   ├── Arrays/  
-│   │   └── arrays.js  
-│   ├── Try-Catch-and-Finally/  
-│   │   └── tryCatchFinally.js  
-│   └── Throw/  
-│       └── throw.js  
-├── Day-4/  
-│   ├── Create-a-Rectangle-Object/  
-│   │   └── rectangleObject.js  
-│   ├── Count-Objects/  
-│   │   └── countObjects.js  
-│   └── Classes/  
-│       └── classes.js  
-├── Day-5/  
-│   ├── Inheritance/  
-│   │   └── inheritance.js  
-│   ├── Template-Literals/  
-│   │   └── templateLiterals.js  
-│   └── Arrow-Functions/  
-│       └── arrowFunctions.js  
-├── Day-6/  \n
-│   ├── Bitwise-Operators/  
-│   │   └── bitwiseOperators.js  
-│   ├── JavaScript-Dates/  
-│       └── jsDates.js  
-├── Day-7/  
-│   ├── Regular-Expressions-I/  
-│   │   └── regexI.js  
-│   ├── Regular-Expressions-II/  
-│   │   └── regexII.js  
-│   └── Regular-Expressions-III/  
-│       └── regexIII.js  
-├── Day-8/  
-│   ├── Create-a-Button/  
-│   │   └── createButton.js  
-│   └── Buttons-Container/  
-│       └── buttonsContainer.js  
+10-Days-of-JavaScript/
+├── Day-0/
+│   ├── Hello-World/
+│   │   └── solution
+│   ├── Data-Types/
+│   │   └── solution
+├── Day-1/
+│   ├── Arithmetic-Operators/
+│   │   └── solution
+│   ├── Functions/
+│   │   └── solution
+│   └── Let-and-Const/
+│       └── solution
+├── Day-2/
+│   ├── Conditional-Statements-If-Else/
+│   │   └── solution
+│   ├── Conditional-Statements-Switch/
+│   │   └── solution
+│   └── Loops/
+│       └── solution
+├── Day-3/
+│   ├── Arrays/
+│   │   └── solution
+│   ├── Try-Catch-and-Finally/
+│   │   └── solution
+│   └── Throw/
+│       └── solution
+├── Day-4/
+│   ├── Create-a-Rectangle-Object/
+│   │   └── solution
+│   ├── Count-Objects/
+│   │   └── solution
+│   └── Classes/
+│       └── solution
+├── Day-5/
+│   ├── Inheritance/
+│   │   └── solution
+│   ├── Template-Literals/
+│   │   └── solution
+│   └── Arrow-Functions/
+│       └── solution
+├── Day-6/
+│   ├── Bitwise-Operators/
+│   │   └── solution
+│   ├── JavaScript-Dates/
+│       └── solution
+├── Day-7/
+│   ├── Regular-Expressions-I/
+│   │   └── solution
+│   ├── Regular-Expressions-II/
+│   │   └── solution
+│   └── Regular-Expressions-III/
+│       └── solution
+├── Day-8/
+│   ├── Create-a-Button/
+│   │   └── solution
+│   └── Buttons-Container/
+│       └── solution
 └── Day-9/  
     └── Binary-Calculator/  
         └── binaryCalculator.js  
